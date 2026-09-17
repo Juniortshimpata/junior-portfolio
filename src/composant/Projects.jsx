@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FiGithub, FiExternalLink } from "react-icons/fi";
 
-import projects from "../data/Projects";
+import projects from "../data/Projects.jsx";
 
 import "./Projects.css";
 
